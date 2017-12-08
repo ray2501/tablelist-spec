@@ -1,8 +1,8 @@
 #!/usr/bin/tclsh
 
 set arch "noarch"
-set base "tablelist5.18"
-set fileurl "http://www.nemethi.de/tablelist/tablelist5.18.tar.gz"
+set base "tablelist6.0"
+set fileurl "http://www.nemethi.de/tablelist/tablelist6.0.tar.gz"
 
 set var [list wget $fileurl -O $base.tar.gz]
 exec >@stdout 2>@stderr {*}$var
