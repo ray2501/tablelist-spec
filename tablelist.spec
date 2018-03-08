@@ -4,7 +4,7 @@
 
 Name:           tablelist
 BuildRequires:  tcl >= 8.6
-Version:        6.0
+Version:        6.1
 Release:        0
 Summary:        The implementation of the tablelist mega-widget for Tcl/Tk
 Url:            http://www.nemethi.de/
@@ -13,7 +13,7 @@ Group:          Development/Libraries/Tcl
 BuildArch:      noarch
 Requires:       tcl >= 8.6
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
-Source0:        http://www.nemethi.de/tablelist/tablelist6.0.tar.gz
+Source0:        http://www.nemethi.de/tablelist/tablelist6.1.tar.gz
 
 %description
 A tablelist is a multi-column listbox and tree widget.
