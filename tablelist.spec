@@ -4,7 +4,7 @@
 
 Name:           tablelist
 BuildRequires:  tcl >= 8.6
-Version:        6.7
+Version:        6.8
 Release:        0
 Summary:        The implementation of the tablelist mega-widget for Tcl/Tk
 Url:            http://www.nemethi.de/
